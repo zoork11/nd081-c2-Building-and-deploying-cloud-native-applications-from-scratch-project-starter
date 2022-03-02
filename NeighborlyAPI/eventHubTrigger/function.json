@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "neighborlyeventhub", 
-	  "connection": "eventconnectionstr"
+	  "connection": "Endpoint=sb://zoorkneighborly.servicebus.windows.net/;SharedAccessKeyName=eventlistener;SharedAccessKey=abI7J5gAAlN5ZMGjpeYQJ35pM5qqCHImKY9lrS0iEJI=;EntityPath=neighborlyeventhub"
     }
   ]
 }
